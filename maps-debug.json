@@ -1,404 +1,336 @@
-[
-	{
-		"name": "Hanamura",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/hanamura.jpg",
-		"gamemodes": [
-			"assault"
-		],
-		"location": "Tokyo, Japan",
-		"country_code": "JP"
-	},
-	{
-		"name": "Horizon Lunar Colony",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/horizon.jpg",
-		"gamemodes": [
-			"competitive",
-			"assault"
-		],
-		"location": "Earth's moon",
-		"country_code": null
-	},
-	{
-		"name": "Paris",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/paris.jpg",
-		"gamemodes": [
-			"competitive",
-			"assault"
-		],
-		"location": "Paris, France",
-		"country_code": "FR"
-	},
-	{
-		"name": "Temple of Anubis",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/anubis.jpg",
-		"gamemodes": [
-			"assault"
-		],
-		"location": "Giza Plateau, Egypt",
-		"country_code": "EG"
-	},
-	{
-		"name": "Volskaya Industries",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/volskaya.jpg",
-		"gamemodes": [
-			"assault"
-		],
-		"location": "St. Petersburg, Russia",
-		"country_code": "RU"
-	},
-	{
-		"name": "Ayutthaya",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/ayutthaya.jpg",
-		"gamemodes": [
-			"capture-the-flag"
-		],
-		"location": "Thailand",
-		"country_code": "TH"
-	},
-	{
-		"name": "Busan",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/busan.jpg",
-		"gamemodes": [
-			"control"
-		],
-		"location": "South Korea",
-		"country_code": "KR"
-	},
-	{
-		"name": "Nepal",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/nepal.jpg",
-		"gamemodes": [
-			"control"
-		],
-		"location": "Nepal",
-		"country_code": "NP"
-	},
-	{
-		"name": "Ilios",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/ilios.jpg",
-		"gamemodes": [
-			"control"
-		],
-		"location": "Greece",
-		"country_code": "GR"
-	},
-	{
-		"name": "Oasis",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/oasis.jpg",
-		"gamemodes": [
-			"control"
-		],
-		"location": "Iraq",
-		"country_code": "IQ"
-	},
-	{
-		"name": "Lijiang Tower",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/lijiang.jpg",
-		"gamemodes": [
-			"control"
-		],
-		"location": "China",
-		"country_code": "CN"
-	},
-	{
-		"name": "Château Guillard",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/chateau_guillard.jpg",
-		"gamemodes": [
-			"deathmatch",
-			"team-deathmatch"
-		],
-		"location": "Annecy, France",
-		"country_code": "FR"
-	},
-	{
-		"name": "Kanezaka",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/kanezaka.jpg",
-		"gamemodes": [
-			"deathmatch",
-			"team-deathmatch"
-		],
-		"location": "Tokyo, Japan",
-		"country_code": "JP"
-	},
-	{
-		"name": "Malevento",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/malevento.jpg",
-		"gamemodes": [
-			"deathmatch",
-			"team-deathmatch"
-		],
-		"location": "Italy",
-		"country_code": "IT"
-	},
-	{
-		"name": "Petra",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/petra.jpg",
-		"gamemodes": [
-			"deathmatch",
-			"team-deathmatch"
-		],
-		"location": "Southern Jordan",
-		"country_code": "JO"
-	},
-	{
-		"name": "Black Forest",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/black_forest.jpg",
-		"gamemodes": [
-			"elimination"
-		],
-		"location": "Germany",
-		"country_code": "DE"
-	},
-	{
-		"name": "Castillo",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/castillo.jpg",
-		"gamemodes": [
-			"elimination"
-		],
-		"location": "Mexico",
-		"country_code": "MX"
-	},
-	{
-		"name": "Ecopoint: Antarctica",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/ecopoint_antarctica.jpg",
-		"gamemodes": [
-			"elimination"
-		],
-		"location": "Antarctica",
-		"country_code": "AQ"
-	},
-	{
-		"name": "Necropolis",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/necropolis.jpg",
-		"gamemodes": [
-			"elimination"
-		],
-		"location": "Egypt",
-		"country_code": "EG"
-	},
-	{
-		"name": "Circuit Royal",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/circuit_royal.jpg",
-		"gamemodes": [
-			"escort"
-		],
-		"location": "Monte Carlo, Monaco",
-		"country_code": "MC"
-	},
-	{
-		"name": "Dorado",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/dorado.jpg",
-		"gamemodes": [
-			"escort"
-		],
-		"location": "Mexico",
-		"country_code": "MX"
-	},
-	{
-		"name": "Route 66",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/route_66.jpg",
-		"gamemodes": [
-			"escort"
-		],
-		"location": "Albuquerque, New Mexico, United States",
-		"country_code": "US"
-	},
-	{
-		"name": "Junkertown",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/junkertown.jpg",
-		"gamemodes": [
-			"escort"
-		],
-		"location": "Central Australia",
-		"country_code": "AU"
-	},
-	{
-		"name": "Rialto",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/rialto.jpg",
-		"gamemodes": [
-			"escort"
-		],
-		"location": "Venice, Italy",
-		"country_code": "IT"
-	},
-	{
-		"name": "Havana",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/havana.jpg",
-		"gamemodes": [
-			"escort"
-		],
-		"location": "Havana, Cuba",
-		"country_code": "CU"
-	},
-	{
-		"name": "Watchpoint: Gibraltar",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/gibraltar.jpg",
-		"gamemodes": [
-			"escort"
-		],
-		"location": "Gibraltar",
-		"country_code": "GI"
-	},
-	{
-		"name": "Shambali Monastery",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/shambali.jpg",
-		"gamemodes": [
-			"escort"
-		],
-		"location": "Nepal",
-		"country_code": "NP"
-	},
-	{
-		"name": "Blizzard World",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/blizzard_world.jpg",
-		"gamemodes": [
-			"hybrid"
-		],
-		"location": "Irvine, California, United States",
-		"country_code": "US"
-	},
-	{
-		"name": "Numbani",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/numbani.jpg",
-		"gamemodes": [
-			"hybrid"
-		],
-		"location": "Numbani (near Nigeria)",
-		"country_code": null
-	},
-	{
-		"name": "Hollywood",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/hollywood.jpg",
-		"gamemodes": [
-			"hybrid"
-		],
-		"location": "Los Angeles, United States",
-		"country_code": "US"
-	},
-	{
-		"name": "Eichenwalde",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/eichenwalde.jpg",
-		"gamemodes": [
-			"hybrid"
-		],
-		"location": "Stuttgart, Germany",
-		"country_code": "DE"
-	},
-	{
-		"name": "King’s Row",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/kings_row.jpg",
-		"gamemodes": [
-			"hybrid"
-		],
-		"location": "London, United Kingdom",
-		"country_code": "UK"
-	},
-	{
-		"name": "Midtown",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/midtown.jpg",
-		"gamemodes": [
-			"hybrid"
-		],
-		"location": "New York, United States",
-		"country_code": "US"
-	},
-	{
-		"name": "Paraíso",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/paraiso.jpg",
-		"gamemodes": [
-			"hybrid"
-		],
-		"location": "Rio de Janeiro, Brazil",
-		"country_code": "BR"
-	},
-	{
-		"name": "Colosseo",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/colosseo.jpg",
-		"gamemodes": [
-			"push"
-		],
-		"location": "Rome, Italy",
-		"country_code": "IT"
-	},
-	{
-		"name": "Esperança",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/esperanca.jpg",
-		"gamemodes": [
-			"push"
-		],
-		"location": "Portugal",
-		"country_code": "PT"
-	},
-	{
-		"name": "New Queen Street",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/new_queen_street.jpg",
-		"gamemodes": [
-			"push"
-		],
-		"location": "Toronto, Canada",
-		"country_code": "CA"
-	},
-	{
-		"name": "Antarctic Peninsula",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/antarctic_peninsula.jpg",
-		"gamemodes": [
-			"control"
-		],
-		"location": "Antarctica",
-		"country_code": "AQ"
-	},
-	{
-		"name": "New Junk City",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/new_junk_city.jpg",
-		"gamemodes": [
-			"flashpoint"
-		],
-		"location": "Central Australia",
-		"country_code": "AU"
-	},
-	{
-		"name": "Suravasa",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/suravasa.jpg",
-		"gamemodes": [
-			"flashpoint"
-		],
-		"location": "India",
-		"country_code": "IN"
-	},
-	{
-		"name": "Samoa",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/samoa.jpg",
-		"gamemodes": [
-			"control"
-		],
-		"location": "Samoa",
-		"country_code": "WS"
-	},
-	{
-		"name": "Runasapi",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/runasapi.jpg",
-		"gamemodes": [
-			"push"
-		],
-		"location": "Peru",
-		"country_code": "PE"
-	},
-	{
-		"name": "Hanaoka",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/hanaoka.jpg",
-		"gamemodes": [
-			"clash"
-		],
-		"location": "Tokyo, Japan",
-		"country_code": "JP"
-	},
-	{
-		"name": "Throne of Anubis",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/throne_of_anubis.jpg",
-		"gamemodes": [
-			"clash"
-		],
-		"location": "Giza Plateau, Egypt",
-		"country_code": "EG"
-	}
-]
+{
+  "_comment": "Seasonal competitive pool. Update this file each season to reflect current map rotation.",
+  "comp_season": "Season 15 (March 2025)",
+  "comp_gamemodes": [
+    {
+      "mode": "Control",
+      "maps": ["Busan", "Ilios", "Lijiang Tower", "Nepal", "Samoa"]
+    },
+    {
+      "mode": "Escort",
+      "maps": ["Circuit Royal", "Dorado", "Junkertown", "Shambali Monastery"]
+    },
+    {
+      "mode": "Hybrid",
+      "maps": ["Eichenwalde", "King's Row", "Midtown", "Paraíso"]
+    },
+    {
+      "mode": "Push",
+      "maps": ["Colosseo", "Esperança", "New Junk City", "Runasapi"]
+    },
+    {
+      "mode": "Flashpoint",
+      "maps": ["New Queen Street", "Suravasa"]
+    }
+  ],
+  "maps": [
+    {
+      "name": "Hanamura",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/hanamura.jpg",
+      "gamemodes": ["assault"],
+      "location": "Tokyo, Japan",
+      "country_code": "JP"
+    },
+    {
+      "name": "Horizon Lunar Colony",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/horizon.jpg",
+      "gamemodes": ["competitive", "assault"],
+      "location": "Earth's moon",
+      "country_code": null
+    },
+    {
+      "name": "Paris",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/paris.jpg",
+      "gamemodes": ["competitive", "assault"],
+      "location": "Paris, France",
+      "country_code": "FR"
+    },
+    {
+      "name": "Temple of Anubis",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/anubis.jpg",
+      "gamemodes": ["assault"],
+      "location": "Giza Plateau, Egypt",
+      "country_code": "EG"
+    },
+    {
+      "name": "Volskaya Industries",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/volskaya.jpg",
+      "gamemodes": ["assault"],
+      "location": "St. Petersburg, Russia",
+      "country_code": "RU"
+    },
+    {
+      "name": "Ayutthaya",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/ayutthaya.jpg",
+      "gamemodes": ["capture-the-flag"],
+      "location": "Thailand",
+      "country_code": "TH"
+    },
+    {
+      "name": "Busan",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/busan.jpg",
+      "gamemodes": ["control"],
+      "location": "South Korea",
+      "country_code": "KR"
+    },
+    {
+      "name": "Nepal",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/nepal.jpg",
+      "gamemodes": ["control"],
+      "location": "Nepal",
+      "country_code": "NP"
+    },
+    {
+      "name": "Ilios",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/ilios.jpg",
+      "gamemodes": ["control"],
+      "location": "Greece",
+      "country_code": "GR"
+    },
+    {
+      "name": "Oasis",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/oasis.jpg",
+      "gamemodes": ["control"],
+      "location": "Iraq",
+      "country_code": "IQ"
+    },
+    {
+      "name": "Lijiang Tower",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/lijiang.jpg",
+      "gamemodes": ["control"],
+      "location": "China",
+      "country_code": "CN"
+    },
+    {
+      "name": "Château Guillard",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/chateau_guillard.jpg",
+      "gamemodes": ["deathmatch", "team-deathmatch"],
+      "location": "Annecy, France",
+      "country_code": "FR"
+    },
+    {
+      "name": "Kanezaka",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/kanezaka.jpg",
+      "gamemodes": ["deathmatch", "team-deathmatch"],
+      "location": "Tokyo, Japan",
+      "country_code": "JP"
+    },
+    {
+      "name": "Malevento",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/malevento.jpg",
+      "gamemodes": ["deathmatch", "team-deathmatch"],
+      "location": "Italy",
+      "country_code": "IT"
+    },
+    {
+      "name": "Petra",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/petra.jpg",
+      "gamemodes": ["deathmatch", "team-deathmatch"],
+      "location": "Southern Jordan",
+      "country_code": "JO"
+    },
+    {
+      "name": "Black Forest",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/black_forest.jpg",
+      "gamemodes": ["elimination"],
+      "location": "Germany",
+      "country_code": "DE"
+    },
+    {
+      "name": "Castillo",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/castillo.jpg",
+      "gamemodes": ["elimination"],
+      "location": "Mexico",
+      "country_code": "MX"
+    },
+    {
+      "name": "Ecopoint: Antarctica",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/ecopoint_antarctica.jpg",
+      "gamemodes": ["elimination"],
+      "location": "Antarctica",
+      "country_code": "AQ"
+    },
+    {
+      "name": "Necropolis",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/necropolis.jpg",
+      "gamemodes": ["elimination"],
+      "location": "Egypt",
+      "country_code": "EG"
+    },
+    {
+      "name": "Circuit Royal",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/circuit_royal.jpg",
+      "gamemodes": ["escort"],
+      "location": "Monte Carlo, Monaco",
+      "country_code": "MC"
+    },
+    {
+      "name": "Dorado",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/dorado.jpg",
+      "gamemodes": ["escort"],
+      "location": "Mexico",
+      "country_code": "MX"
+    },
+    {
+      "name": "Route 66",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/route_66.jpg",
+      "gamemodes": ["escort"],
+      "location": "Albuquerque, New Mexico, United States",
+      "country_code": "US"
+    },
+    {
+      "name": "Junkertown",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/junkertown.jpg",
+      "gamemodes": ["escort"],
+      "location": "Central Australia",
+      "country_code": "AU"
+    },
+    {
+      "name": "Rialto",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/rialto.jpg",
+      "gamemodes": ["escort"],
+      "location": "Venice, Italy",
+      "country_code": "IT"
+    },
+    {
+      "name": "Havana",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/havana.jpg",
+      "gamemodes": ["escort"],
+      "location": "Havana, Cuba",
+      "country_code": "CU"
+    },
+    {
+      "name": "Watchpoint: Gibraltar",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/gibraltar.jpg",
+      "gamemodes": ["escort"],
+      "location": "Gibraltar",
+      "country_code": "GI"
+    },
+    {
+      "name": "Shambali Monastery",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/shambali.jpg",
+      "gamemodes": ["escort"],
+      "location": "Nepal",
+      "country_code": "NP"
+    },
+    {
+      "name": "Blizzard World",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/blizzard_world.jpg",
+      "gamemodes": ["hybrid"],
+      "location": "Irvine, California, United States",
+      "country_code": "US"
+    },
+    {
+      "name": "Numbani",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/numbani.jpg",
+      "gamemodes": ["hybrid"],
+      "location": "Numbani (near Nigeria)",
+      "country_code": null
+    },
+    {
+      "name": "Hollywood",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/hollywood.jpg",
+      "gamemodes": ["hybrid"],
+      "location": "Los Angeles, United States",
+      "country_code": "US"
+    },
+    {
+      "name": "Eichenwalde",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/eichenwalde.jpg",
+      "gamemodes": ["hybrid"],
+      "location": "Stuttgart, Germany",
+      "country_code": "DE"
+    },
+    {
+      "name": "King's Row",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/kings_row.jpg",
+      "gamemodes": ["hybrid"],
+      "location": "London, United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "name": "Midtown",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/midtown.jpg",
+      "gamemodes": ["hybrid"],
+      "location": "New York, United States",
+      "country_code": "US"
+    },
+    {
+      "name": "Paraíso",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/paraiso.jpg",
+      "gamemodes": ["hybrid"],
+      "location": "Rio de Janeiro, Brazil",
+      "country_code": "BR"
+    },
+    {
+      "name": "Colosseo",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/colosseo.jpg",
+      "gamemodes": ["push"],
+      "location": "Rome, Italy",
+      "country_code": "IT"
+    },
+    {
+      "name": "Esperança",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/esperanca.jpg",
+      "gamemodes": ["push"],
+      "location": "Portugal",
+      "country_code": "PT"
+    },
+    {
+      "name": "New Queen Street",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/new_queen_street.jpg",
+      "gamemodes": ["push"],
+      "location": "Toronto, Canada",
+      "country_code": "CA"
+    },
+    {
+      "name": "Antarctic Peninsula",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/antarctic_peninsula.jpg",
+      "gamemodes": ["control"],
+      "location": "Antarctica",
+      "country_code": "AQ"
+    },
+    {
+      "name": "New Junk City",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/new_junk_city.jpg",
+      "gamemodes": ["flashpoint"],
+      "location": "Central Australia",
+      "country_code": "AU"
+    },
+    {
+      "name": "Suravasa",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/suravasa.jpg",
+      "gamemodes": ["flashpoint"],
+      "location": "India",
+      "country_code": "IN"
+    },
+    {
+      "name": "Samoa",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/samoa.jpg",
+      "gamemodes": ["control"],
+      "location": "Samoa",
+      "country_code": "WS"
+    },
+    {
+      "name": "Runasapi",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/runasapi.jpg",
+      "gamemodes": ["push"],
+      "location": "Peru",
+      "country_code": "PE"
+    },
+    {
+      "name": "Hanaoka",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/hanaoka.jpg",
+      "gamemodes": ["clash"],
+      "location": "Tokyo, Japan",
+      "country_code": "JP"
+    },
+    {
+      "name": "Throne of Anubis",
+      "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/throne_of_anubis.jpg",
+      "gamemodes": ["clash"],
+      "location": "Giza Plateau, Egypt",
+      "country_code": "EG"
+    }
+  ]
+}
