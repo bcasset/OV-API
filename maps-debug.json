@@ -34,14 +34,14 @@
     {
       "name": "Horizon Lunar Colony",
       "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/horizon.jpg",
-      "gamemodes": ["competitive", "assault"],
+      "gamemodes": ["assault"],
       "location": "Earth's moon",
       "country_code": null
     },
     {
       "name": "Paris",
       "screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/paris.jpg",
-      "gamemodes": ["competitive", "assault"],
+      "gamemodes": ["assault"],
       "location": "Paris, France",
       "country_code": "FR"
     },
