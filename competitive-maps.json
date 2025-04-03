@@ -1,0 +1,26 @@
+{
+  "_comment": "Seasonal competitive pool. Update this file each season to reflect current map rotation.",
+  "season": "Season 15 (March 2025)",
+  "game_modes": [
+    {
+      "mode": "Control",
+      "maps": ["Busan", "Ilios", "Lijiang Tower", "Nepal", "Samoa"]
+    },
+    {
+      "mode": "Escort",
+      "maps": ["Circuit Royal", "Dorado", "Junkertown", "Shambali Monastery"]
+    },
+    {
+      "mode": "Hybrid",
+      "maps": ["Eichenwalde", "King’s Row", "Midtown", "Paraíso"]
+    },
+    {
+      "mode": "Push",
+      "maps": ["Colosseo", "Esperança", "New Junk City", "Runasapi"]
+    },
+    {
+      "mode": "Flashpoint",
+      "maps": ["New Queen Street", "Suravasa"]
+    }
+  ]
+}
