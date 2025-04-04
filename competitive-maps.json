@@ -1,6 +1,6 @@
 {
   "_comment": "Seasonal competitive pool. Update this file each season to reflect current map rotation.",
-  "season": "s15 (March 2025)",
+  "season": "s15 (Mar-2025)",
   "game_modes": [
     {
       "mode": "Control",
