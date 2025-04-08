@@ -4,19 +4,19 @@
   "game_modes": [
     {
       "mode": "Control",
-      "maps": ["Busan", "Ilios", "Lijiang Tower", "Nepal", "Samoa"]
+      "maps": ["Antarctic Peninsula", "Oasis", "Busan", "Ilios", "Lijiang Tower", "Nepal", "Samoa"]
     },
     {
       "mode": "Escort",
-      "maps": ["Circuit Royal", "Dorado", "Junkertown", "Shambali Monastery"]
+      "maps": ["Havana", "Circuit Royal", "Rialto", "Watchpoint: Gibraltar", "Route 66", "Dorado", "Junkertown", "Shambali Monastery"]
     },
     {
       "mode": "Hybrid",
-      "maps": ["Eichenwalde", "King’s Row", "Midtown", "Paraíso"]
+      "maps": ["Blizzard World", "Numbani", "Eichenwalde", "King’s Row", "Midtown", "Hollywood", "Paraíso"]
     },
     {
       "mode": "Push",
-      "maps": ["Colosseo", "Esperança", "New Junk City", "Runasapi"]
+      "maps": ["Colosseo", "New Queen Street", "Esperança", "Runasapi"]
     },
     {
       "mode": "Flashpoint",
