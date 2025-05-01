@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Hanamura",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/hanamura.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/hanamura.jpg",
 		"gamemodes": [
 			"assault"
 		],
@@ -10,7 +10,7 @@
 	},
 	{
 		"name": "Horizon Lunar Colony",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/horizon.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/horizon.jpg",
 		"gamemodes": [
 			"assault"
 		],
@@ -19,7 +19,7 @@
 	},
 	{
 		"name": "Paris",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/paris.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/paris.jpg",
 		"gamemodes": [
 			"assault"
 		],
@@ -28,7 +28,7 @@
 	},
 	{
 		"name": "Temple of Anubis",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/anubis.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/anubis.jpg",
 		"gamemodes": [
 			"assault"
 		],
@@ -37,7 +37,7 @@
 	},
 	{
 		"name": "Volskaya Industries",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/volskaya.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/volskaya.jpg",
 		"gamemodes": [
 			"assault"
 		],
@@ -46,7 +46,7 @@
 	},
 	{
 		"name": "Ayutthaya",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/ayutthaya.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/ayutthaya.jpg",
 		"gamemodes": [
 			"capture-the-flag"
 		],
@@ -55,7 +55,7 @@
 	},
 	{
 		"name": "Busan",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/busan.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/busan.jpg",
 		"gamemodes": [
 			"control"
 		],
@@ -64,7 +64,7 @@
 	},
 	{
 		"name": "Nepal",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/nepal.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/nepal.jpg",
 		"gamemodes": [
 			"control"
 		],
@@ -73,7 +73,7 @@
 	},
 	{
 		"name": "Ilios",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/ilios.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/ilios.jpg",
 		"gamemodes": [
 			"control"
 		],
@@ -82,7 +82,7 @@
 	},
 	{
 		"name": "Oasis",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/oasis.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/oasis.jpg",
 		"gamemodes": [
 			"control"
 		],
@@ -91,7 +91,7 @@
 	},
 	{
 		"name": "Lijiang Tower",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/lijiang.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/lijiang.jpg",
 		"gamemodes": [
 			"control"
 		],
@@ -100,7 +100,7 @@
 	},
 	{
 		"name": "Château Guillard",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/chateau_guillard.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/chateau_guillard.jpg",
 		"gamemodes": [
 			"deathmatch",
 			"team-deathmatch"
@@ -110,7 +110,7 @@
 	},
 	{
 		"name": "Kanezaka",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/kanezaka.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/kanezaka.jpg",
 		"gamemodes": [
 			"deathmatch",
 			"team-deathmatch"
@@ -120,7 +120,7 @@
 	},
 	{
 		"name": "Malevento",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/malevento.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/malevento.jpg",
 		"gamemodes": [
 			"deathmatch",
 			"team-deathmatch"
@@ -130,7 +130,7 @@
 	},
 	{
 		"name": "Petra",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/petra.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/petra.jpg",
 		"gamemodes": [
 			"deathmatch",
 			"team-deathmatch"
@@ -140,7 +140,7 @@
 	},
 	{
 		"name": "Black Forest",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/black_forest.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/black_forest.jpg",
 		"gamemodes": [
 			"elimination"
 		],
@@ -149,7 +149,7 @@
 	},
 	{
 		"name": "Castillo",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/castillo.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/castillo.jpg",
 		"gamemodes": [
 			"elimination"
 		],
@@ -158,7 +158,7 @@
 	},
 	{
 		"name": "Ecopoint: Antarctica",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/ecopoint_antarctica.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/ecopoint_antarctica.jpg",
 		"gamemodes": [
 			"elimination"
 		],
@@ -167,7 +167,7 @@
 	},
 	{
 		"name": "Necropolis",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/necropolis.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/necropolis.jpg",
 		"gamemodes": [
 			"elimination"
 		],
@@ -176,7 +176,7 @@
 	},
 	{
 		"name": "Circuit Royal",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/circuit_royal.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/circuit_royal.jpg",
 		"gamemodes": [
 			"escort"
 		],
@@ -185,7 +185,7 @@
 	},
 	{
 		"name": "Dorado",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/dorado.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/dorado.jpg",
 		"gamemodes": [
 			"escort"
 		],
@@ -194,7 +194,7 @@
 	},
 	{
 		"name": "Route 66",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/route_66.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/route_66.jpg",
 		"gamemodes": [
 			"escort"
 		],
@@ -203,7 +203,7 @@
 	},
 	{
 		"name": "Junkertown",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/junkertown.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/junkertown.jpg",
 		"gamemodes": [
 			"escort"
 		],
@@ -212,7 +212,7 @@
 	},
 	{
 		"name": "Rialto",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/rialto.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/rialto.jpg",
 		"gamemodes": [
 			"escort"
 		],
@@ -221,7 +221,7 @@
 	},
 	{
 		"name": "Havana",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/havana.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/havana.jpg",
 		"gamemodes": [
 			"escort"
 		],
@@ -230,7 +230,7 @@
 	},
 	{
 		"name": "Watchpoint: Gibraltar",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/gibraltar.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/gibraltar.jpg",
 		"gamemodes": [
 			"escort"
 		],
@@ -239,7 +239,7 @@
 	},
 	{
 		"name": "Shambali Monastery",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/shambali.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/shambali.jpg",
 		"gamemodes": [
 			"escort"
 		],
@@ -248,7 +248,7 @@
 	},
 	{
 		"name": "Blizzard World",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/blizzard_world.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/blizzard_world.jpg",
 		"gamemodes": [
 			"hybrid"
 		],
@@ -257,7 +257,7 @@
 	},
 	{
 		"name": "Numbani",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/numbani.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/numbani.jpg",
 		"gamemodes": [
 			"hybrid"
 		],
@@ -266,7 +266,7 @@
 	},
 	{
 		"name": "Hollywood",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/hollywood.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/hollywood.jpg",
 		"gamemodes": [
 			"hybrid"
 		],
@@ -275,7 +275,7 @@
 	},
 	{
 		"name": "Eichenwalde",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/eichenwalde.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/eichenwalde.jpg",
 		"gamemodes": [
 			"hybrid"
 		],
@@ -284,7 +284,7 @@
 	},
 	{
 		"name": "King’s Row",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/kings_row.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/kings_row.jpg",
 		"gamemodes": [
 			"hybrid"
 		],
@@ -293,7 +293,7 @@
 	},
 	{
 		"name": "Midtown",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/midtown.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/midtown.jpg",
 		"gamemodes": [
 			"hybrid"
 		],
@@ -302,7 +302,7 @@
 	},
 	{
 		"name": "Paraíso",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/paraiso.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/paraiso.jpg",
 		"gamemodes": [
 			"hybrid"
 		],
@@ -311,7 +311,7 @@
 	},
 	{
 		"name": "Colosseo",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/colosseo.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/colosseo.jpg",
 		"gamemodes": [
 			"push"
 		],
@@ -320,7 +320,7 @@
 	},
 	{
 		"name": "Esperança",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/esperanca.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/esperanca.jpg",
 		"gamemodes": [
 			"push"
 		],
@@ -329,7 +329,7 @@
 	},
 	{
 		"name": "New Queen Street",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/new_queen_street.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/new_queen_street.jpg",
 		"gamemodes": [
 			"push"
 		],
@@ -338,7 +338,7 @@
 	},
 	{
 		"name": "Antarctic Peninsula",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/antarctic_peninsula.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/antarctic_peninsula.jpg",
 		"gamemodes": [
 			"control"
 		],
@@ -347,7 +347,7 @@
 	},
 	{
 		"name": "New Junk City",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/new_junk_city.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/new_junk_city.jpg",
 		"gamemodes": [
 			"flashpoint"
 		],
@@ -356,7 +356,7 @@
 	},
 	{
 		"name": "Suravasa",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/suravasa.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/suravasa.jpg",
 		"gamemodes": [
 			"flashpoint"
 		],
@@ -365,7 +365,7 @@
 	},
 	{
 		"name": "Samoa",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/samoa.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/samoa.jpg",
 		"gamemodes": [
 			"control"
 		],
@@ -374,7 +374,7 @@
 	},
 	{
 		"name": "Runasapi",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/runasapi.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/runasapi.jpg",
 		"gamemodes": [
 			"push"
 		],
@@ -383,7 +383,7 @@
 	},
 	{
 		"name": "Hanaoka",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/hanaoka.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/hanaoka.jpg",
 		"gamemodes": [
 			"clash"
 		],
@@ -392,7 +392,7 @@
 	},
 	{
 		"name": "Throne of Anubis",
-		"screenshot": "https://raw.githubusercontent.com/bcasset/OV-API/refs/heads/main/maps/throne_of_anubis.jpg",
+		"screenshot": "https://ov-api.vercel.app/maps/throne_of_anubis.jpg",
 		"gamemodes": [
 			"clash"
 		],
