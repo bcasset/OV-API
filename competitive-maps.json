@@ -4,7 +4,7 @@
   "game_modes": [
     {
       "mode": "Control",
-      "maps": ["Ecopoint: Antarctica", "Ilios", "Lijiang Tower", "Nepal", "Oasis", "Busan", "Samoa"]
+      "maps": ["Antarctic Peninsula", "Ilios", "Lijiang Tower", "Nepal", "Oasis", "Busan", "Samoa"]
     },
     {
       "mode": "Escort",
