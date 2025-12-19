@@ -1,26 +1,60 @@
 {
   "_comment": "Seasonal competitive pool. Update this file each season to reflect current map rotation.",
-  "season": "Season 19 (October 14, 2025)",
+  "season": "Season 20 (December 9, 2025)",
   "game_modes": [
     {
       "mode": "Control",
-      "maps": ["Antarctic Peninsula", "Ilios", "Lijiang Tower", "Nepal", "Oasis", "Busan", "Samoa"]
+      "maps": [
+        "Antarctic Peninsula",
+        "Ilios",
+        "Lijiang Tower",
+        "Nepal",
+        "Oasis",
+        "Busan",
+        "Samoa"
+      ]
     },
     {
       "mode": "Escort",
-      "maps": ["Dorado", "Havana", "Junkertown", "Circuit Royal", "Rialto", "Shambali Monastery", "Watchpoint: Gibraltar", "Route 66"]
+      "maps": [
+        "Dorado",
+        "Havana",
+        "Junkertown",
+        "Circuit Royal",
+        "Rialto",
+        "Shambali Monastery",
+        "Watchpoint: Gibraltar",
+        "Route 66"
+      ]
     },
     {
       "mode": "Hybrid",
-      "maps": ["Blizzard World", "King’s Row", "Midtown", "Numbani", "Paraíso", "Eichenwalde", "Hollywood"]
+      "maps": [
+        "Blizzard World",
+        "King’s Row",
+        "Midtown",
+        "Numbani",
+        "Paraíso",
+        "Eichenwalde",
+        "Hollywood"
+      ]
     },
     {
       "mode": "Push",
-      "maps": ["New Queen Street", "Colosseo", "Esperança", "Runasapi"]
+      "maps": [
+        "New Queen Street",
+        "Colosseo",
+        "Esperança",
+        "Runasapi"
+      ]
     },
     {
       "mode": "Flashpoint",
-      "maps": ["Suravasa", "New Junk City", "Aatlis"]
+      "maps": [
+        "Suravasa",
+        "New Junk City",
+        "Aatlis"
+      ]
     }
   ]
 }
