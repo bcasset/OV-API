@@ -1,402 +1,474 @@
 [
-	{
-		"name": "Hanamura",
-		"screenshot": "https://ov-api.vercel.app/maps/hanamura.jpg",
-		"gamemodes": [
-			"assault"
-		],
-		"location": "Tokyo, Japan",
-		"country_code": "JP"
-	},
-	{
-		"name": "Horizon Lunar Colony",
-		"screenshot": "https://ov-api.vercel.app/maps/horizon.jpg",
-		"gamemodes": [
-			"assault"
-		],
-		"location": "Earth's moon",
-		"country_code": null
-	},
-	{
-		"name": "Paris",
-		"screenshot": "https://ov-api.vercel.app/maps/paris.jpg",
-		"gamemodes": [
-			"assault"
-		],
-		"location": "Paris, France",
-		"country_code": "FR"
-	},
-	{
-		"name": "Temple of Anubis",
-		"screenshot": "https://ov-api.vercel.app/maps/anubis.jpg",
-		"gamemodes": [
-			"assault"
-		],
-		"location": "Giza Plateau, Egypt",
-		"country_code": "EG"
-	},
-	{
-		"name": "Volskaya Industries",
-		"screenshot": "https://ov-api.vercel.app/maps/volskaya.jpg",
-		"gamemodes": [
-			"assault"
-		],
-		"location": "St. Petersburg, Russia",
-		"country_code": "RU"
-	},
-	{
-		"name": "Ayutthaya",
-		"screenshot": "https://ov-api.vercel.app/maps/ayutthaya.jpg",
-		"gamemodes": [
-			"capture-the-flag"
-		],
-		"location": "Thailand",
-		"country_code": "TH"
-	},
-	{
-		"name": "Busan",
-		"screenshot": "https://ov-api.vercel.app/maps/busan.jpg",
-		"gamemodes": [
-			"control"
-		],
-		"location": "South Korea",
-		"country_code": "KR"
-	},
-	{
-		"name": "Nepal",
-		"screenshot": "https://ov-api.vercel.app/maps/nepal.jpg",
-		"gamemodes": [
-			"control"
-		],
-		"location": "Nepal",
-		"country_code": "NP"
-	},
-	{
-		"name": "Ilios",
-		"screenshot": "https://ov-api.vercel.app/maps/ilios.jpg",
-		"gamemodes": [
-			"control"
-		],
-		"location": "Greece",
-		"country_code": "GR"
-	},
-	{
-		"name": "Oasis",
-		"screenshot": "https://ov-api.vercel.app/maps/oasis.jpg",
-		"gamemodes": [
-			"control"
-		],
-		"location": "Iraq",
-		"country_code": "IQ"
-	},
-	{
-		"name": "Lijiang Tower",
-		"screenshot": "https://ov-api.vercel.app/maps/lijiang.jpg",
-		"gamemodes": [
-			"control"
-		],
-		"location": "China",
-		"country_code": "CN"
-	},
-	{
-		"name": "Château Guillard",
-		"screenshot": "https://ov-api.vercel.app/maps/chateau_guillard.jpg",
-		"gamemodes": [
-			"deathmatch",
-			"team-deathmatch"
-		],
-		"location": "Annecy, France",
-		"country_code": "FR"
-	},
-	{
-		"name": "Kanezaka",
-		"screenshot": "https://ov-api.vercel.app/maps/kanezaka.jpg",
-		"gamemodes": [
-			"deathmatch",
-			"team-deathmatch"
-		],
-		"location": "Tokyo, Japan",
-		"country_code": "JP"
-	},
-	{
-		"name": "Malevento",
-		"screenshot": "https://ov-api.vercel.app/maps/malevento.jpg",
-		"gamemodes": [
-			"deathmatch",
-			"team-deathmatch"
-		],
-		"location": "Italy",
-		"country_code": "IT"
-	},
-	{
-		"name": "Petra",
-		"screenshot": "https://ov-api.vercel.app/maps/petra.jpg",
-		"gamemodes": [
-			"deathmatch",
-			"team-deathmatch"
-		],
-		"location": "Southern Jordan",
-		"country_code": "JO"
-	},
-	{
-		"name": "Black Forest",
-		"screenshot": "https://ov-api.vercel.app/maps/black_forest.jpg",
-		"gamemodes": [
-			"elimination"
-		],
-		"location": "Germany",
-		"country_code": "DE"
-	},
-	{
-		"name": "Castillo",
-		"screenshot": "https://ov-api.vercel.app/maps/castillo.jpg",
-		"gamemodes": [
-			"elimination"
-		],
-		"location": "Mexico",
-		"country_code": "MX"
-	},
-	{
-		"name": "Ecopoint: Antarctica",
-		"screenshot": "https://ov-api.vercel.app/maps/ecopoint_antarctica.jpg",
-		"gamemodes": [
-			"elimination"
-		],
-		"location": "Antarctica",
-		"country_code": "AQ"
-	},
-	{
-		"name": "Necropolis",
-		"screenshot": "https://ov-api.vercel.app/maps/necropolis.jpg",
-		"gamemodes": [
-			"elimination"
-		],
-		"location": "Egypt",
-		"country_code": "EG"
-	},
-	{
-		"name": "Circuit Royal",
-		"screenshot": "https://ov-api.vercel.app/maps/circuit_royal.jpg",
-		"gamemodes": [
-			"escort"
-		],
-		"location": "Monte Carlo, Monaco",
-		"country_code": "MC"
-	},
-	{
-		"name": "Dorado",
-		"screenshot": "https://ov-api.vercel.app/maps/dorado.jpg",
-		"gamemodes": [
-			"escort"
-		],
-		"location": "Mexico",
-		"country_code": "MX"
-	},
-	{
-		"name": "Route 66",
-		"screenshot": "https://ov-api.vercel.app/maps/route_66.jpg",
-		"gamemodes": [
-			"escort"
-		],
-		"location": "Albuquerque, New Mexico, United States",
-		"country_code": "US"
-	},
-	{
-		"name": "Junkertown",
-		"screenshot": "https://ov-api.vercel.app/maps/junkertown.jpg",
-		"gamemodes": [
-			"escort"
-		],
-		"location": "Central Australia",
-		"country_code": "AU"
-	},
-	{
-		"name": "Rialto",
-		"screenshot": "https://ov-api.vercel.app/maps/rialto.jpg",
-		"gamemodes": [
-			"escort"
-		],
-		"location": "Venice, Italy",
-		"country_code": "IT"
-	},
-	{
-		"name": "Havana",
-		"screenshot": "https://ov-api.vercel.app/maps/havana.jpg",
-		"gamemodes": [
-			"escort"
-		],
-		"location": "Havana, Cuba",
-		"country_code": "CU"
-	},
-	{
-		"name": "Watchpoint: Gibraltar",
-		"screenshot": "https://ov-api.vercel.app/maps/gibraltar.jpg",
-		"gamemodes": [
-			"escort"
-		],
-		"location": "Gibraltar",
-		"country_code": "GI"
-	},
-	{
-		"name": "Shambali Monastery",
-		"screenshot": "https://ov-api.vercel.app/maps/shambali.jpg",
-		"gamemodes": [
-			"escort"
-		],
-		"location": "Nepal",
-		"country_code": "NP"
-	},
-	{
-		"name": "Blizzard World",
-		"screenshot": "https://ov-api.vercel.app/maps/blizzard_world.jpg",
-		"gamemodes": [
-			"hybrid"
-		],
-		"location": "Irvine, California, United States",
-		"country_code": "US"
-	},
-	{
-		"name": "Numbani",
-		"screenshot": "https://ov-api.vercel.app/maps/numbani.jpg",
-		"gamemodes": [
-			"hybrid"
-		],
-		"location": "Numbani (near Nigeria)",
-		"country_code": null
-	},
-	{
-		"name": "Hollywood",
-		"screenshot": "https://ov-api.vercel.app/maps/hollywood.jpg",
-		"gamemodes": [
-			"hybrid"
-		],
-		"location": "Los Angeles, United States",
-		"country_code": "US"
-	},
-	{
-		"name": "Eichenwalde",
-		"screenshot": "https://ov-api.vercel.app/maps/eichenwalde.jpg",
-		"gamemodes": [
-			"hybrid"
-		],
-		"location": "Stuttgart, Germany",
-		"country_code": "DE"
-	},
-	{
-		"name": "King’s Row",
-		"screenshot": "https://ov-api.vercel.app/maps/kings_row.jpg",
-		"gamemodes": [
-			"hybrid"
-		],
-		"location": "London, United Kingdom",
-		"country_code": "UK"
-	},
-	{
-		"name": "Midtown",
-		"screenshot": "https://ov-api.vercel.app/maps/midtown.jpg",
-		"gamemodes": [
-			"hybrid"
-		],
-		"location": "New York, United States",
-		"country_code": "US"
-	},
-	{
-		"name": "Paraíso",
-		"screenshot": "https://ov-api.vercel.app/maps/paraiso.jpg",
-		"gamemodes": [
-			"hybrid"
-		],
-		"location": "Rio de Janeiro, Brazil",
-		"country_code": "BR"
-	},
-	{
-		"name": "Colosseo",
-		"screenshot": "https://ov-api.vercel.app/maps/colosseo.jpg",
-		"gamemodes": [
-			"push"
-		],
-		"location": "Rome, Italy",
-		"country_code": "IT"
-	},
-	{
-		"name": "Esperança",
-		"screenshot": "https://ov-api.vercel.app/maps/esperanca.jpg",
-		"gamemodes": [
-			"push"
-		],
-		"location": "Portugal",
-		"country_code": "PT"
-	},
-	{
-		"name": "New Queen Street",
-		"screenshot": "https://ov-api.vercel.app/maps/new_queen_street.jpg",
-		"gamemodes": [
-			"push"
-		],
-		"location": "Toronto, Canada",
-		"country_code": "CA"
-	},
-	{
-		"name": "Antarctic Peninsula",
-		"screenshot": "https://ov-api.vercel.app/maps/antarctic_peninsula.jpg",
-		"gamemodes": [
-			"control"
-		],
-		"location": "Antarctica",
-		"country_code": "AQ"
-	},
-	{
-		"name": "New Junk City",
-		"screenshot": "https://ov-api.vercel.app/maps/new_junk_city.jpg",
-		"gamemodes": [
-			"flashpoint"
-		],
-		"location": "Central Australia",
-		"country_code": "AU"
-	},
-	{
-		"name": "Suravasa",
-		"screenshot": "https://ov-api.vercel.app/maps/suravasa.jpg",
-		"gamemodes": [
-			"flashpoint"
-		],
-		"location": "India",
-		"country_code": "IN"
-	},
-	{
-		"name": "Samoa",
-		"screenshot": "https://ov-api.vercel.app/maps/samoa.jpg",
-		"gamemodes": [
-			"control"
-		],
-		"location": "Samoa",
-		"country_code": "WS"
-	},
-	{
-		"name": "Runasapi",
-		"screenshot": "https://ov-api.vercel.app/maps/runasapi.jpg",
-		"gamemodes": [
-			"push"
-		],
-		"location": "Peru",
-		"country_code": "PE"
-	},
-	{
-		"name": "Hanaoka",
-		"screenshot": "https://ov-api.vercel.app/maps/hanaoka.jpg",
-		"gamemodes": [
-			"clash"
-		],
-		"location": "Tokyo, Japan",
-		"country_code": "JP"
-	},
-	{
-		"name": "Throne of Anubis",
-		"screenshot": "https://ov-api.vercel.app/maps/throne_of_anubis.jpg",
-		"gamemodes": [
-			"clash"
-		],
-		"location": "Giza Plateau, Egypt",
-		"country_code": "EG"
-	}
+  {
+    "name": "Aatlis",
+    "screenshot": "https://ov-api.vercel.app/maps/aatlis.jpg",
+    "gamemodes": [
+      "flashpoint"
+    ],
+    "location": "Morocco",
+    "country_code": "MA"
+  },
+  {
+    "name": "Antarctic Peninsula",
+    "screenshot": "https://ov-api.vercel.app/maps/antarctic-peninsula.jpg",
+    "gamemodes": [
+      "control"
+    ],
+    "location": "Antarctica",
+    "country_code": "AQ"
+  },
+  {
+    "name": "Temple of Anubis",
+    "screenshot": "https://ov-api.vercel.app/maps/anubis.jpg",
+    "gamemodes": [
+      "assault"
+    ],
+    "location": "Giza Plateau, Egypt",
+    "country_code": "EG"
+  },
+  {
+    "name": "Arena Victoriae",
+    "screenshot": "https://ov-api.vercel.app/maps/arena-victoriae.jpg",
+    "gamemodes": [
+      "control"
+    ],
+    "location": "Colosseo, Rome, Italy",
+    "country_code": "IT"
+  },
+  {
+    "name": "Ayutthaya",
+    "screenshot": "https://ov-api.vercel.app/maps/ayutthaya.jpg",
+    "gamemodes": [
+      "capture-the-flag"
+    ],
+    "location": "Thailand",
+    "country_code": "TH"
+  },
+  {
+    "name": "Black Forest",
+    "screenshot": "https://ov-api.vercel.app/maps/black-forest.jpg",
+    "gamemodes": [
+      "elimination"
+    ],
+    "location": "Germany",
+    "country_code": "DE"
+  },
+  {
+    "name": "Blizzard World",
+    "screenshot": "https://ov-api.vercel.app/maps/blizzard-world.jpg",
+    "gamemodes": [
+      "hybrid"
+    ],
+    "location": "Irvine, California, United States",
+    "country_code": "US"
+  },
+  {
+    "name": "Busan",
+    "screenshot": "https://ov-api.vercel.app/maps/busan.jpg",
+    "gamemodes": [
+      "control"
+    ],
+    "location": "South Korea",
+    "country_code": "KR"
+  },
+  {
+    "name": "Castillo",
+    "screenshot": "https://ov-api.vercel.app/maps/castillo.jpg",
+    "gamemodes": [
+      "elimination"
+    ],
+    "location": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Château Guillard",
+    "screenshot": "https://ov-api.vercel.app/maps/chateau-guillard.jpg",
+    "gamemodes": [
+      "deathmatch",
+      "team-deathmatch"
+    ],
+    "location": "Annecy, France",
+    "country_code": "FR"
+  },
+  {
+    "name": "Circuit Royal",
+    "screenshot": "https://ov-api.vercel.app/maps/circuit-royal.jpg",
+    "gamemodes": [
+      "escort"
+    ],
+    "location": "Monte Carlo, Monaco",
+    "country_code": "MC"
+  },
+  {
+    "name": "Colosseo",
+    "screenshot": "https://ov-api.vercel.app/maps/colosseo.jpg",
+    "gamemodes": [
+      "push"
+    ],
+    "location": "Rome, Italy",
+    "country_code": "IT"
+  },
+  {
+    "name": "Dorado",
+    "screenshot": "https://ov-api.vercel.app/maps/dorado.jpg",
+    "gamemodes": [
+      "escort"
+    ],
+    "location": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Ecopoint: Antarctica",
+    "screenshot": "https://ov-api.vercel.app/maps/ecopoint-antarctica.jpg",
+    "gamemodes": [
+      "elimination"
+    ],
+    "location": "Antarctica",
+    "country_code": "AQ"
+  },
+  {
+    "name": "Eichenwalde",
+    "screenshot": "https://ov-api.vercel.app/maps/eichenwalde.jpg",
+    "gamemodes": [
+      "hybrid"
+    ],
+    "location": "Stuttgart, Germany",
+    "country_code": "DE"
+  },
+  {
+    "name": "Esperança",
+    "screenshot": "https://ov-api.vercel.app/maps/esperanca.jpg",
+    "gamemodes": [
+      "push"
+    ],
+    "location": "Portugal",
+    "country_code": "PT"
+  },
+  {
+    "name": "Gogadoro",
+    "screenshot": "https://ov-api.vercel.app/maps/gogadoro.jpg",
+    "gamemodes": [
+      "control"
+    ],
+    "location": "Busan, South Korea",
+    "country_code": "KR"
+  },
+  {
+    "name": "Hanamura",
+    "screenshot": "https://ov-api.vercel.app/maps/hanamura.jpg",
+    "gamemodes": [
+      "assault"
+    ],
+    "location": "Tokyo, Japan",
+    "country_code": "JP"
+  },
+  {
+    "name": "Hanaoka",
+    "screenshot": "https://ov-api.vercel.app/maps/hanaoka.jpg",
+    "gamemodes": [
+      "clash"
+    ],
+    "location": "Tokyo, Japan",
+    "country_code": "JP"
+  },
+  {
+    "name": "Havana",
+    "screenshot": "https://ov-api.vercel.app/maps/havana.jpg",
+    "gamemodes": [
+      "escort"
+    ],
+    "location": "Havana, Cuba",
+    "country_code": "CU"
+  },
+  {
+    "name": "Hollywood",
+    "screenshot": "https://ov-api.vercel.app/maps/hollywood.jpg",
+    "gamemodes": [
+      "hybrid"
+    ],
+    "location": "Los Angeles, United States",
+    "country_code": "US"
+  },
+  {
+    "name": "Horizon Lunar Colony",
+    "screenshot": "https://ov-api.vercel.app/maps/horizon.jpg",
+    "gamemodes": [
+      "assault"
+    ],
+    "location": "Earth's moon",
+    "country_code": null
+  },
+  {
+    "name": "Ilios",
+    "screenshot": "https://ov-api.vercel.app/maps/ilios.jpg",
+    "gamemodes": [
+      "control"
+    ],
+    "location": "Greece",
+    "country_code": "GR"
+  },
+  {
+    "name": "Junkertown",
+    "screenshot": "https://ov-api.vercel.app/maps/junkertown.jpg",
+    "gamemodes": [
+      "escort"
+    ],
+    "location": "Central Australia",
+    "country_code": "AU"
+  },
+  {
+    "name": "Lijiang Tower",
+    "screenshot": "https://ov-api.vercel.app/maps/lijiang-tower.jpg",
+    "gamemodes": [
+      "control"
+    ],
+    "location": "China",
+    "country_code": "CN"
+  },
+  {
+    "name": "Kanezaka",
+    "screenshot": "https://ov-api.vercel.app/maps/kanezaka.jpg",
+    "gamemodes": [
+      "deathmatch",
+      "team-deathmatch"
+    ],
+    "location": "Tokyo, Japan",
+    "country_code": "JP"
+  },
+  {
+    "name": "King’s Row",
+    "screenshot": "https://ov-api.vercel.app/maps/kings-row.jpg",
+    "gamemodes": [
+      "hybrid"
+    ],
+    "location": "London, United Kingdom",
+    "country_code": "UK"
+  },
+  {
+    "name": "Malevento",
+    "screenshot": "https://ov-api.vercel.app/maps/malevento.jpg",
+    "gamemodes": [
+      "deathmatch",
+      "team-deathmatch"
+    ],
+    "location": "Italy",
+    "country_code": "IT"
+  },
+  {
+    "name": "Midtown",
+    "screenshot": "https://ov-api.vercel.app/maps/midtown.jpg",
+    "gamemodes": [
+      "hybrid"
+    ],
+    "location": "New York, United States",
+    "country_code": "US"
+  },
+  {
+    "name": "Necropolis",
+    "screenshot": "https://ov-api.vercel.app/maps/necropolis.jpg",
+    "gamemodes": [
+      "elimination"
+    ],
+    "location": "Egypt",
+    "country_code": "EG"
+  },
+  {
+    "name": "Nepal",
+    "screenshot": "https://ov-api.vercel.app/maps/nepal.jpg",
+    "gamemodes": [
+      "control"
+    ],
+    "location": "Nepal",
+    "country_code": "NP"
+  },
+  {
+    "name": "New Junk City",
+    "screenshot": "https://ov-api.vercel.app/maps/new-junk-city.jpg",
+    "gamemodes": [
+      "flashpoint"
+    ],
+    "location": "Central Australia",
+    "country_code": "AU"
+  },
+  {
+    "name": "New Queen Street",
+    "screenshot": "https://ov-api.vercel.app/maps/new-queen-street.jpg",
+    "gamemodes": [
+      "push"
+    ],
+    "location": "Toronto, Canada",
+    "country_code": "CA"
+  },
+  {
+    "name": "Numbani",
+    "screenshot": "https://ov-api.vercel.app/maps/numbani.jpg",
+    "gamemodes": [
+      "hybrid"
+    ],
+    "location": "Numbani (near Nigeria)",
+    "country_code": null
+  },
+  {
+    "name": "Oasis",
+    "screenshot": "https://ov-api.vercel.app/maps/oasis.jpg",
+    "gamemodes": [
+      "control"
+    ],
+    "location": "Iraq",
+    "country_code": "IQ"
+  },
+  {
+    "name": "Paraíso",
+    "screenshot": "https://ov-api.vercel.app/maps/paraiso.jpg",
+    "gamemodes": [
+      "hybrid"
+    ],
+    "location": "Rio de Janeiro, Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Paris",
+    "screenshot": "https://ov-api.vercel.app/maps/paris.jpg",
+    "gamemodes": [
+      "assault"
+    ],
+    "location": "Paris, France",
+    "country_code": "FR"
+  },
+  {
+    "name": "Petra",
+    "screenshot": "https://ov-api.vercel.app/maps/petra.jpg",
+    "gamemodes": [
+      "deathmatch",
+      "team-deathmatch"
+    ],
+    "location": "Southern Jordan",
+    "country_code": "JO"
+  },
+  {
+    "name": "Place Lacroix",
+    "screenshot": "https://ov-api.vercel.app/maps/place-lacroix.jpg",
+    "gamemodes": [
+      "push"
+    ],
+    "location": "Paris, France",
+    "country_code": "FR"
+  },
+  {
+    "name": "Powder Keg Mine",
+    "screenshot": "https://ov-api.vercel.app/maps/powder-keg-mine.jpg",
+    "gamemodes": [
+      "payload-race"
+    ],
+    "location": "Deadlock Gorge, Arizona, United States",
+    "country_code": "US"
+  },
+  {
+    "name": "Practice Range",
+    "screenshot": "https://ov-api.vercel.app/maps/practice-range.jpg",
+    "gamemodes": [
+      "practice-range"
+    ],
+    "location": "Swiss HQ",
+    "country_code": "CH"
+  },
+  {
+    "name": "Redwood Dam",
+    "screenshot": "https://ov-api.vercel.app/maps/redwood-dam.jpg",
+    "gamemodes": [
+      "push"
+    ],
+    "location": "Gibraltar",
+    "country_code": "GI"
+  },
+  {
+    "name": "Rialto",
+    "screenshot": "https://ov-api.vercel.app/maps/rialto.jpg",
+    "gamemodes": [
+      "escort"
+    ],
+    "location": "Venice, Italy",
+    "country_code": "IT"
+  },
+  {
+    "name": "Route 66",
+    "screenshot": "https://ov-api.vercel.app/maps/route-66.jpg",
+    "gamemodes": [
+      "escort"
+    ],
+    "location": "Albuquerque, New Mexico, United States",
+    "country_code": "US"
+  },
+  {
+    "name": "Runasapi",
+    "screenshot": "https://ov-api.vercel.app/maps/runasapi.jpg",
+    "gamemodes": [
+      "push"
+    ],
+    "location": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Samoa",
+    "screenshot": "https://ov-api.vercel.app/maps/samoa.jpg",
+    "gamemodes": [
+      "control"
+    ],
+    "location": "Samoa",
+    "country_code": "WS"
+  },
+  {
+    "name": "Shambali Monastery",
+    "screenshot": "https://ov-api.vercel.app/maps/shambali-monastery.jpg",
+    "gamemodes": [
+      "escort"
+    ],
+    "location": "Nepal",
+    "country_code": "NP"
+  },
+  {
+    "name": "Suravasa",
+    "screenshot": "https://ov-api.vercel.app/maps/suravasa.jpg",
+    "gamemodes": [
+      "flashpoint"
+    ],
+    "location": "India",
+    "country_code": "IN"
+  },
+  {
+    "name": "Thames District",
+    "screenshot": "https://ov-api.vercel.app/maps/thames-district.jpg",
+    "gamemodes": [
+      "payload-race"
+    ],
+    "location": "London, United Kingdom",
+    "country_code": "UK"
+  },
+  {
+    "name": "Throne of Anubis",
+    "screenshot": "https://ov-api.vercel.app/maps/throne-of-anubis.jpg",
+    "gamemodes": [
+      "clash"
+    ],
+    "location": "Giza Plateau, Egypt",
+    "country_code": "EG"
+  },
+  {
+    "name": "Volskaya Industries",
+    "screenshot": "https://ov-api.vercel.app/maps/volskaya.jpg",
+    "gamemodes": [
+      "assault"
+    ],
+    "location": "St. Petersburg, Russia",
+    "country_code": "RU"
+  },
+  {
+    "name": "Watchpoint: Gibraltar",
+    "screenshot": "https://ov-api.vercel.app/maps/watchpoint-gibraltar.jpg",
+    "gamemodes": [
+      "escort"
+    ],
+    "location": "Gibraltar",
+    "country_code": "GI"
+  }
 ]
